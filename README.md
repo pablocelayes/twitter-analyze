@@ -2,9 +2,9 @@
 
 ## Setup
 
-conda create -n escucha-tec-notebooks python=3.6
+conda create -n twitter-analyze python=3.6
 
-conda activate escucha-tec-notebooks
+conda activate twitter-analyze
 
 conda config --add channels conda-forge
 
